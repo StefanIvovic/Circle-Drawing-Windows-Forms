@@ -19,7 +19,7 @@ namespace krug
         private char[,] matrica;
         private int r = 0;
         private bool unapred = true;
-
+        private int testic = 0;
         public Form1()
         {
             InitializeComponent();
